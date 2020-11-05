@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-edit-wine',
+  selector: 'wc-edit-wine',
   templateUrl: './edit-wine.component.html',
   styleUrls: ['./edit-wine.component.css']
 })
