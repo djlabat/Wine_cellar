@@ -1,5 +1,3 @@
-Generisanje komponenti –primer_1/wine-cellar•Napravićemo komponente zaaplikacijuizzadatka1:1.Generisaćemo novu aplikaciju koja se zove wine-cellar:ng new wine-cellar2.Generisanje komponenti•Komponentekoje se pojavljuju na svakom prikazu ćemo stavljati u direktorijum wine-cellar/app/core•Generisanje komponente HeaderComponent: ng g component core/header•Generisanje komponente NavbarComponent: ng g component core/navbar•Komponente vezane za manipulaciju vinima ćemo stavljati u direktorijum wine-cellar/app/wine•Generisanje WineListComponent: ng g component wine/wine-list•Generisanje EditWineComponent: ng g component wine/edit-wine
-
 # Zadatak2A10
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
